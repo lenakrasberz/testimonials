@@ -1600,7 +1600,7 @@ transition: all .3s;
 }
 
 .info__mail .info__item-top::after{
-    background: url("../verstka/images/Chat") 0 0 / 100% no-repeat;
+    background: url("./images/Chat") 0 0 / 100% no-repeat;
 }
 .info__tel {
 }
