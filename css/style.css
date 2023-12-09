@@ -285,7 +285,7 @@ margin-bottom: 60px;
 }
 
 .header__content-buttons {
-	max-width: 350px;
+	
     
 }
 .header__content-btn {
@@ -2141,10 +2141,15 @@ line-height: 150%;
     .header__row {
         display: none;
     }
-	@media (max-width: 550px) {
+	
 	.header__content-buttons {
-		max-width: 340px;
-		
+		max-width: 350px;	
+    
+}
+	@media (max-width: 550px) {
+	.header__content-buttons 
+		{
+		max-width: 330px;	
     
 }
 }
