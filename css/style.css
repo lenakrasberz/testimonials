@@ -2140,9 +2140,13 @@ line-height: 150%;
     .header__row {
         display: none;
     }
+	@media (max-width: 600px) {
+	.header__content-buttons {
+		max-width: 300px;
+		
     
 }
-
+}
 /*-------------HEADER-BODY-400px--------------------------*/
 
  @media  (max-width: 500px) {
