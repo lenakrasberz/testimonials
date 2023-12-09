@@ -1981,7 +1981,7 @@ line-height: 150%;
         display: flex;
         flex-direction: column;
         text-align: center;
-/*         max-width: 350px; */
+        max-width: 350px;
         
     }
     .header__content-btn {
@@ -2142,7 +2142,7 @@ line-height: 150%;
     }
 	@media (max-width: 550px) {
 	.header__content-buttons {
-		max-width: 350px;
+		max-width: 340px;
 		
     
 }
