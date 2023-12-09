@@ -2140,9 +2140,9 @@ line-height: 150%;
     .header__row {
         display: none;
     }
-	@media (max-width: 600px) {
+	@media (max-width: 550px) {
 	.header__content-buttons {
-		max-width: 300px;
+		max-width: 220px;
 		
     
 }
