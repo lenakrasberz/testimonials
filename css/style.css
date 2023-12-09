@@ -2142,7 +2142,7 @@ line-height: 150%;
     }
 	@media (max-width: 550px) {
 	.header__content-buttons {
-		max-width: 220px;
+		max-width: 350px;
 		
     
 }
